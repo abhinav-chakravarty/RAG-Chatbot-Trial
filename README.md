@@ -1,1 +1,1 @@
-# RAG-Chatbot-Trial
+# RAG-Chatbot-with-Ollama
